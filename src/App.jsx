@@ -1,10 +1,10 @@
-import {createBrowserRouter, RouterProvider} from "react-router";
+import {createHashRouter, RouterProvider} from "react-router";
 import Layout from './components/Layout.jsx'
 import Homepage from "./pages/Homepage.jsx";
 import Projecten from "./pages/Projecten.jsx";
 import Skills from "./pages/Skills.jsx";
 
-const router = createBrowserRouter([
+const router = createHashRouter([
     {
         element: <Layout/>,
         children: [
