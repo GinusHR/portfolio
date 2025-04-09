@@ -18,7 +18,7 @@ function Layout () {
             <footer
                 className=" bg-[#0f1020] w-[100%] absolute bottom-0 h-[10vh] flex flex-row justify-evenly">
                 <div className=" flex w-20 justify-center items-center">
-                    <img className="h-14"  src="/linkedIn.png" alt="LinkedIn logo"/>
+                    <img className="h-14" src="/linkedIn.png" alt="LinkedIn logo"/>
                     <a className="text-[#246A73] drop-shadow-[2px_2px_0px_#f39f2b] hover:text-[#f39f2b] hover:drop-shadow-[2px_2px_0px_#246A73]  text-[1.1rem] font-bold" target="_blank" href="https://www.linkedin.com/in/ginus-van-der-zee-fullstack-web-developer-b10320352/">LinkedIn</a>
                 </div>
                 <div className="flex items-center gap-2 w-20">
