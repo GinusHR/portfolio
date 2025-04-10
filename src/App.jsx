@@ -23,9 +23,9 @@ const router = createBrowserRouter([
             }
         ]
 
-    },
-    {basename: "/portfolio"}
-]);
+    }
+],
+    {basename: "/portfolio/"});
 
 function App() {
 

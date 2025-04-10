@@ -8,7 +8,7 @@ function Homepage() {
                         <h2 className="text-[#f39f2b] font-bold justify-center drop-shadow-[3px_3px_0px_#663f29] text-2xl typewriter">--Fullstack Webdeveloper--</h2>
                     </div>
                     <div className="flex flex-row justify-evenly w-[100%] animate-slide-in-right">
-                        <img src="/foto2.jpg" alt="Foto van mij"
+                        <img src="/portfolio/foto2.jpg" alt="Foto van mij"
                              className="text-black border-2 border-black rounded-full w-[300px] h-[300px] object-cover drop-shadow-2xl"/>
                         <div className="text-[#f39f2b] bg-[#663f29] rounded-xl p-8 max-w-[30vw] drop-shadow-2xl">
                             Ik zit op de Hogeschool Rotterdam, ik volg de opleiding Creative Media en Game Technologies. Ik zit nu in het tweede jaar.

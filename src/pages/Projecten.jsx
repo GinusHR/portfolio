@@ -2,37 +2,37 @@ const werk = [
     {
         name: "PunchPark",
         description: "Een liefdesbrief naar de oude arcade classic Punch-Out. Mijn eerste game, gemaakt met ExcaliburJS, deze 2D fighter biedt 8 bosses en speelt zich af in bekend Rottterdams park, het Hefpark",
-        picture_path: "/PP.png",
+        picture_path: "/portfolio/PP.png",
         link: "https://vincentbenders.github.io/CLE4/",
     },
     {
         name: "Viktoria's Schoonmaakbedrijf",
         description: "Mijn eerste website voor een opdrachtgever, deze website is gemaakt met ruwe php en heeft een MySQL database. In deze website zit een reserverings systeem waarmee je schoonmaaks afspraken kan inplannen en beheren",
-        picture_path: "/schoon.png",
+        picture_path: "/portfolio/schoon.png",
         link: "https://project.hosted.hr.nl/2023_2024/ressys_t17/CLE_2_project/",
     },
     {
         name: "CyberNoir",
         description: "Dit project kwam voort uit toen we de opdracht kregen om een dystopish toekomstbeeld te maken. Met mijn team bedenken wij hoe de illegale verkoop van cybernetische onderdele eruit zou kunnen zien",
-        picture_path: "/cyberN.png",
+        picture_path: "/portfolio/cyberN.png",
         link: "https://project.hosted.hr.nl/2024_2025/tle1_exp_t11/TLE-1-team-11/"
     },
     {
         name: "Open Hiring",
         description: "IO Digital kwam naar onze opleiding toe met een casus, maak een website voor Open Hiring. Open Hiring wilt aannemen makkelijker maken, met een nadruk op mensen die misschien moeilijker een baan krijgen.(De link leidt naar de Github pagina)",
-        picture_path: "/openH.png",
+        picture_path: "/portfolio/openH.png",
         link: "https://github.com/GinusHR/TLE-Agency-Team6"
     },
     {
         name: "Slime Slayer",
         description: "Een solo project waarin ik de basics van game design en programming toe pas. In Slime Slayer speel je als 1 van de 2 karakters om zo veel mogelijk Slimes te verslaan. Werk samen voor de hoogste score.",
-        picture_path: "/slimeS.png",
+        picture_path: "/portfolio/slimeS.png",
         link: "https://ginushr.github.io/banger-periode4/"
     },
     {
         name: "General Shao Fan Page",
         description: "Mijn aller eerste website. Een fan page zonder backend. Ik heb sinds deze website al veel geleerd en gegroeid, toch wil ik deze laten zien. Als bericht naar mezelf, zodat ik altijd kan zien hoe ver ik gekomen ben",
-        picture_path: "/shao2.png",
+        picture_path: "/portfolio/shao2.png",
         link: "https://ginushr.github.io/wireframe-eindopdracht/"
     }
 ];
