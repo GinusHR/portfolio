@@ -15,7 +15,7 @@ function Homepage() {
                             Ik heb ervaring met ruwe HTML/CSS, PHP en JavaScript. Ook met verschillende frameworks en libraries.
                             Ik ben een gefocuste, harde werker met een positieve instelling. Ik kan goed met veel verschillende soorten mensen werken.
                             Ik sla snel nieuwe kennis op en sta altijd open om nieuwe dingen te leren of al bestaande skills aan te scherpen.
-                            Ik heb ook ervaring met LLMs en Nueral Networks.
+                            Ik heb ook ervaring met LLMs en Neural Networks.
                         </div>
                     </div>
 
